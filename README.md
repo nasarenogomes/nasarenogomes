@@ -10,8 +10,7 @@
 ## 🚀 Sobre Mim
 ```diff
 + Apaixonado por resolver problemas através da tecnologia.
-+ Foco em desenvolvimento Python, SQL e automação.<!--
-**nasarenogomes/nasarenogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Foco em desenvolvimento Python, SQL e automação.<!
 
 
 
